@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+    color: brown;
+
+}
+body{
+    background-image: url(new.jpg);
+    background-size: cover;
+}
+
